@@ -1,0 +1,10 @@
+out/
+data/*
+!data/README.md
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+venv/
